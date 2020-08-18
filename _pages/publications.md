@@ -22,21 +22,21 @@ author_profile: true
 **IJCAI** 2019 [[paper]](https://arxiv.org/abs/1802.03984) [[code]](https://github.com/lemmonation/spine)
 
 **Non-Autoregressive Neural Machine Translation with Enhanced Decoder Input**  
-***Junliang Guo***, *Xu Tan, Di He, Tao Qin, Linli Xu, Tie-Yan Liu*
+***Junliang Guo***, *Xu Tan, Di He, Tao Qin, Linli Xu, Tie-Yan Liu*  
 **AAAI** 2019 [[paper]](https://arxiv.org/abs/1812.09664)
 
-**Adaptive Proximal Average based Variance Reducing Stochastic Methods for Optimization with Composite Regularization**
-*Jingchang Liu, Linli Xu*, ***Junliang Guo***, *Xin Sheng*
+**Adaptive Proximal Average based Variance Reducing Stochastic Methods for Optimization with Composite Regularization**  
+*Jingchang Liu, Linli Xu*, ***Junliang Guo***, *Xin Sheng*  
 **AAAI** 2019 [[paper]](https://aaai.org/ojs/index.php/AAAI/article/view/3969)
 
-**Tracking and Forecasting Dynamics in Crowdfunding: A Basis-Synthesis Approach**
-*Xiaoying Ren, Linli Xu, Tianxiang Zhao, Chen Zhu*, ***Junliang Guo***
+**Tracking and Forecasting Dynamics in Crowdfunding: A Basis-Synthesis Approach**  
+*Xiaoying Ren, Linli Xu, Tianxiang Zhao, Chen Zhu*, ***Junliang Guo***  
 **ICDM** 2018 [[paper]](https://ieeexplore.ieee.org/document/8594970)
 
-**Enhancing Network Embedding with Auxiliary Information: An Explicit Matrix Factorization Perspective**
-***Junliang Guo***, *Linli Xu, Xunpeng Huang, Enhong Chen*
+**Enhancing Network Embedding with Auxiliary Information: An Explicit Matrix Factorization Perspective**  
+***Junliang Guo***, *Linli Xu, Xunpeng Huang, Enhong Chen*  
 **DASFAA** 2018 [[paper]](https://arxiv.org/abs/1711.04094)
 
-**Asynchronous Stochastic Composition Optimization with Variance Reduction**
-*Shuheng Shen, Linli Xu, Jingchang Liu*, ***Junliang Guo***, *Qing Ling*
+**Asynchronous Stochastic Composition Optimization with Variance Reduction**  
+*Shuheng Shen, Linli Xu, Jingchang Liu*, ***Junliang Guo***, *Qing Ling*  
 Preprint [[paper]](https://arxiv.org/abs/1811.06396)
