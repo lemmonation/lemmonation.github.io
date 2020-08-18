@@ -30,7 +30,7 @@ author_profile: true
 **AAAI** 2019 [[paper]](https://aaai.org/ojs/index.php/AAAI/article/view/3969)
 
 **Tracking and Forecasting Dynamics in Crowdfunding: A Basis-Synthesis Approach**  
-*Xiaoying Ren, Linli Xu, Tianxiang Zhao, Chen Zhu*, ***Junliang Guo***  
+*Xiaoying Ren, Linli Xu, Tianxiang Zhao, Chen Zhu*, ***Junliang Guo***, *Enhong Chen*  
 **ICDM** 2018 [[paper]](https://ieeexplore.ieee.org/document/8594970)
 
 **Enhancing Network Embedding with Auxiliary Information: An Explicit Matrix Factorization Perspective**  
