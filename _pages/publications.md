@@ -5,12 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+**Jointly Masked Sequence-to-Sequence Model for Non-Autoregressive Neural Machine Translation.**  
+***Junliang Guo***, *Linli Xu, Enhong Chen*  
+Association for Computational Linguistics. **ACL** 2020 [[arXiv]](https://arxiv.org/abs/2004.14560)  
