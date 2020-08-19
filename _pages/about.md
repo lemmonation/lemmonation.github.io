@@ -31,4 +31,4 @@ Service
 + Reviewer: AAAI 2020/2021, ECAI 2020, IJCAI 2020, NeurIPS 2020
 
 
-<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=n&d=XXivmJ7W3pK8fcpDvYYMJ2ZU66fcrCJzM7k7DxGEce8"></script>
+<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=m&d=XXivmJ7W3pK8fcpDvYYMJ2ZU66fcrCJzM7k7DxGEce8"></script>
