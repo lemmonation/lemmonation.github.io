@@ -16,7 +16,7 @@ You can contact me through a@b, where a=guojunll and b=mail.ustc.edu.cn.
 
 Education
 ------
-+ 2016.9 - Present, Ph.D. in Computer Science, USTC 
++ 2016.9 - 2022 (Expected), Ph.D. in Computer Science, USTC 
 + 2012.9 - 2016.6, B.E in Computer Science, USTC
 
 Experience
