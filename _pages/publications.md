@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 Incorporating BERT into Parallel Sequence Decoding with Adapters  
-***Junliang Guo***, *Zhirui Zhang, Linli Xu, Hao-Ran Wei, Boxing Chen, Enhong Chen* 
+***Junliang Guo***, *Zhirui Zhang, Linli Xu, Hao-Ran Wei, Boxing Chen, Enhong Chen*  
 NeurIPS 2020
 
 Jointly Masked Sequence-to-Sequence Model for Non-Autoregressive Neural Machine Translation  
