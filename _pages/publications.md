@@ -5,6 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
+Incorporating BERT into Parallel Sequence Decoding with Adapters  
+***Junliang Guo***, *Zhirui Zhang, Linli Xu, Hao-Ran Wei, Boxing Chen, Enhong Chen* 
+NeurIPS 2020
+
 Jointly Masked Sequence-to-Sequence Model for Non-Autoregressive Neural Machine Translation  
 ***Junliang Guo***, *Linli Xu, Enhong Chen*  
 ACL 2020 [[paper]](https://www.aclweb.org/anthology/2020.acl-main.36.pdf) [[code]](https://github.com/lemmonation/jm-nat)
