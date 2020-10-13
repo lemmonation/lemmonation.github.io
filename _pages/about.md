@@ -28,7 +28,8 @@ Experience
 
 Service
 ------
-+ Reviewer: AAAI 2020/2021, ECAI 2020, IJCAI 2020, NeurIPS 2020
++ Senior PC: IJCAI 2021
++ PC Member: AAAI 2020/2021, ECAI 2020, IJCAI 2020, NeurIPS 2020
 
 
 <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=m&d=XXivmJ7W3pK8fcpDvYYMJ2ZU66fcrCJzM7k7DxGEce8"></script>
