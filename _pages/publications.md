@@ -5,6 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
+Label Incorporated Graph Neural Networks for Text Classification  
+*Yuan Xin, Linli Xu*, ***Junliang Guo***, *Jiquan Li, Xin Sheng, Yuanyuan Zhou*  
+ICPR 2020
+
 Incorporating BERT into Parallel Sequence Decoding with Adapters  
 ***Junliang Guo***, *Zhirui Zhang, Linli Xu, Hao-Ran Wei, Boxing Chen, Enhong Chen*  
 NeurIPS 2020 [[paper]](https://arxiv.org/abs/2010.06138)
