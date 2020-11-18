@@ -14,6 +14,8 @@ My main research interests lie in the general area of machine learning, specific
 
 You can contact me through a@b, where a=guojunll and b=mail.ustc.edu.cn.
 
+I'm an amateur 5-dan [Go](https://en.wikipedia.org/wiki/Go_(game)) player.
+
 Education
 ------
 + 2016.9 - 2022 (Expected), Ph.D. in Computer Science, USTC 
