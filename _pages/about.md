@@ -31,7 +31,7 @@ Experience
 Service
 ------
 + Senior PC: IJCAI 2021
-+ PC Member: NeurIPS 2020, ACL 2021, NAACL 2021, AAAI 2020/2021, IJCAI 2020, ECAI 2020
++ PC Member: NeurIPS 2020, ICML 2021, ACL 2021, NAACL 2021, AAAI 2020/2021, IJCAI 2020, ECAI 2020
 
 
 <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=m&d=XXivmJ7W3pK8fcpDvYYMJ2ZU66fcrCJzM7k7DxGEce8"></script>
