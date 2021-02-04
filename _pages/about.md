@@ -10,7 +10,7 @@ redirect_from:
 
 I am currently a Ph.D student majoring in computer science at University of Science and Technology of China (USTC), advised by Prof. [Linli Xu](http://staff.ustc.edu.cn/~linlixu/) and Prof. [Enhong Chen](http://staff.ustc.edu.cn/~cheneh/). I received my bachelor’s degree in USTC at 2016.
 
-My main research interests lie in the general area of machine learning, specifically in sequence modeling and representation learning, as well as their applications in natural language processing and heterogeneous types of data such as networks.
+I mainly work on machine learning and natural language processing.
 
 You can contact me through a@b, where a=guojunll and b=mail.ustc.edu.cn.
 
