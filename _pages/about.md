@@ -18,12 +18,12 @@ I'm an amateur 5-dan [Go](https://en.wikipedia.org/wiki/Go_(game)) player.
 
 Education
 ------
-+ 2016.9 - 2022 (Expected), Ph.D. in Computer Science, USTC 
++ 2016.9 - 2021.11 (Expected), Ph.D. in Computer Science, USTC 
 + 2012.9 - 2016.6, B.E in Computer Science, USTC
 
 Experience
 ------
-+ 2020.7 - Present, Research Intern, Language Technology Lab, Alibaba DAMO Academy
++ 2020.7 - 2021.2, Research Intern, Language Technology Lab, Alibaba DAMO Academy
   - Mentor: [Zhirui Zhang](https://zrustc.github.io/) and [Boxing Chen](https://sites.google.com/site/chenboxing/)
 + 2018.5 - 2018.9, Research Intern, Machine Learning Group, MSRA
   - Mentor: [Xu Tan](https://www.microsoft.com/en-us/research/people/xuta/) and [Tao Qin](https://www.microsoft.com/en-us/research/people/taoqin/)
