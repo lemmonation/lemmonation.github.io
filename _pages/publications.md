@@ -5,6 +5,14 @@ permalink: /publications/
 author_profile: true
 ---
 
+Adaptive Nearest Neighbor Machine Translation  
+*Xin Zheng, Zhirui Zhang*, ***Junliang Guo***, *Shujian Huang, Boxing Chen, Weihua Luo, Jiajun Chen*  
+ACL 2021
+
+Adaptive Adapter: an Efficient Way to Incorporate BERT into Neural Machine Translation  
+***Junliang Guo***, *Zhirui Zhang, Linli Xu, Boxing Chen, Enhong Chen*  
+IEEE Transactions on Audio, Speech and Language Processing
+
 Label Incorporated Graph Neural Networks for Text Classification  
 *Yuan Xin, Linli Xu*, ***Junliang Guo***, *Jiquan Li, Xin Sheng, Yuanyuan Zhou*  
 ICPR 2020
