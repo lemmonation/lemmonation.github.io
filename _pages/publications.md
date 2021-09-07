@@ -5,6 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
+Hierarchical Multi-label Text Classification with Horizontal and Vertical Category Correlations  
+*Linli Xu, Sijie Teng, Ruoyu Zhao*, ***Junliang Guo***, *Chi Xiao, Deqiang Jiang, Bo Ren*  
+EMNLP 2021
+
 Adaptive Nearest Neighbor Machine Translation  
 *Xin Zheng, Zhirui Zhang*, ***Junliang Guo***, *Shujian Huang, Boxing Chen, Weihua Luo, Jiajun Chen*  
 ACL 2021
