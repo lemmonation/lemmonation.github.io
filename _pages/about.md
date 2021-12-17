@@ -23,7 +23,7 @@ Education
 
 Experience
 ------
-+ 2021.12 - Now, Researcher, Machine Learning Group, MSRA
++ 2021.12 - Present, Researcher, Machine Learning Group, MSRA
 + 2020.7 - 2021.2, Research Intern, Language Technology Lab, Alibaba DAMO Academy
 + 2018.5 - 2018.9, Research Intern, Machine Learning Group, MSRA
 
