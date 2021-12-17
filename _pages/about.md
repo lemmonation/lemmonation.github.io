@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Researcher of [Deep and Reinforcement Learning Group](https://www.microsoft.com/en-us/research/group/deep-and-reinforcement-learning-group/), Machine Learning Group at Microsoft Research Asia (MSRA). I obtained my Ph.D degree from the University of Science and Technology of China (USTC), advised by Prof. [Linli Xu](http://staff.ustc.edu.cn/~linlixu/) and Prof. [Enhong Chen](http://staff.ustc.edu.cn/~cheneh/). I received my bachelor’s degree in USTC at 2016.
+I am a Researcher of [Deep and Reinforcement Learning Group](https://www.microsoft.com/en-us/research/group/deep-and-reinforcement-learning-group/), Machine Learning Group at Microsoft Research Asia (MSRA). I obtained my Ph.D degree from the University of Science and Technology of China (USTC) in 2021, advised by Prof. [Linli Xu](http://staff.ustc.edu.cn/~linlixu/) and Prof. [Enhong Chen](http://staff.ustc.edu.cn/~cheneh/). I received my bachelor’s degree in USTC at 2016.
 
 I mainly work on machine learning and natural language processing, including machine translation, text classification, grammatical error correction, graph neural network, etc. 
 
