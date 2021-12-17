@@ -5,6 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
+Sequence-to-Action: Grammatical Error Correction with Action Guided Sequence Generation  
+*Jiquan Li*, ***Junliang Guo***, *Yongxin Zhu, Xin Sheng, Deqiang Jiang, Bo Ren, Linli Xu*  
+AAAI 2022
+
 Hierarchical Multi-label Text Classification with Horizontal and Vertical Category Correlations  
 *Linli Xu, Sijie Teng, Ruoyu Zhao*, ***Junliang Guo***, *Chi Xiao, Deqiang Jiang, Bo Ren*  
 EMNLP 2021
