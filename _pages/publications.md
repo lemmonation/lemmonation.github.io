@@ -5,6 +5,14 @@ permalink: /publications/
 author_profile: true
 ---
 
+A Study of Syntactic Multi-Modality in Non-Autoregressive Machine Translation  
+*Kexun Zhang, Rui Wang, Xu Tan*, ***Junliang Guo***, *Yi Ren, Tao Qin, Tie-Yan Liu*  
+NAACL 2022
+
+Task-Oriented Dialogue System as Natural Language Generation  
+*Weizhi Wang, Zhirui Zhang*, ***Junliang Guo***, *Yinpei Dai, Boxing Chen, Weihua Luo*  
+SIGIR 2022
+
 Sequence-to-Action: Grammatical Error Correction with Action Guided Sequence Generation  
 *Jiquan Li*, ***Junliang Guo***, *Yongxin Zhu, Xin Sheng, Deqiang Jiang, Bo Ren, Linli Xu*  
 AAAI 2022
