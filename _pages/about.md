@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a Researcher of [Deep and Reinforcement Learning Group](https://www.microsoft.com/en-us/research/group/deep-and-reinforcement-learning-group/), Machine Learning Group at Microsoft Research Asia (MSRA). I obtained my Ph.D degree from the University of Science and Technology of China (USTC) in 2021, advised by Prof. [Linli Xu](http://staff.ustc.edu.cn/~linlixu/) and Prof. [Enhong Chen](http://staff.ustc.edu.cn/~cheneh/). I received my bachelor’s degree in USTC at 2016.
+I am a Researcher of [Deep and Reinforcement Learning Group](https://www.microsoft.com/en-us/research/group/deep-and-reinforcement-learning-group/), Machine Learning Group at Microsoft Research Asia (MSRA). I obtained my Ph.D degree from the University of Science and Technology of China (USTC) at 2021, advised by Prof. [Linli Xu](http://staff.ustc.edu.cn/~linlixu/) and Prof. [Enhong Chen](http://staff.ustc.edu.cn/~cheneh/). I received my bachelor’s degree in USTC at 2016.
 
-I mainly work on machine learning and natural language processing, including machine translation, text classification, grammatical error correction, graph neural network, etc. 
+I mainly work on machine learning and natural language processing, including generative models, machine translation, speech synthesis, graph neural network, etc. 
 
 **I'm always looking for highly-motivated interns with good coding and math skills to work with me on machine learning and natural language processing.** Feel free to drop me an email if you are interested (an internship period of at least 6 months is preferred). You can contact me through a@b, where a=junliangguo and b=microsoft.com.
 
