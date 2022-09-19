@@ -5,6 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
+BinauralGrad: A Two-Stage Conditional Diffusion Probabilistic Model for Binaural Audio Synthesis  
+*Yichong Leng, Zehua Chen, ***Junliang Guo***, Haohe Liu, Jiawei Chen, Xu Tan, Danilo Mandic, Lei He, Xiangyang Li, Tao Qin, Sheng Zhao, Tie-Yan Liu*  
+NeurIPS 2022
+
 A Study of Syntactic Multi-Modality in Non-Autoregressive Machine Translation  
 *Kexun Zhang, Rui Wang, Xu Tan*, ***Junliang Guo***, *Yi Ren, Tao Qin, Tie-Yan Liu*  
 NAACL 2022
