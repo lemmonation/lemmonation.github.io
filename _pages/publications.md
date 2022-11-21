@@ -5,6 +5,14 @@ permalink: /publications/
 author_profile: true
 ---
 
+Machine Translation with Speech-Aware Length Control for Video Dubbing  
+*Yihan Wu*, ***Junliang Guo***, *Xu Tan, Chen Zhang, Bohan Li, Ruihua Song, Lei He, Sheng Zhao, Arul Menezes, Jiang Bian*  
+AAAI 2023
+
+Retrosynthesis Prediction with Local Template Retrieval  
+*Shufang Xie, Rui Yan*, ***Junliang Guo***, *Yingce Xia, Lijun Wu, Tao Qin*  
+AAAI 2023
+
 BinauralGrad: A Two-Stage Conditional Diffusion Probabilistic Model for Binaural Audio Synthesis  
 *Yichong Leng, Zehua Chen*, ***Junliang Guo***, *Haohe Liu, Jiawei Chen, Xu Tan, Danilo Mandic, Lei He, Xiangyang Li, Tao Qin, Sheng Zhao, Tie-Yan Liu*  
 NeurIPS 2022
