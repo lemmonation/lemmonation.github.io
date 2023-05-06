@@ -5,6 +5,14 @@ permalink: /publications/
 author_profile: true
 ---
 
+A Survey on Non-Autoregressive Generation for Neural Machine Translation and Beyond   
+*Yisheng Xiao, Lijun Wu*, ***Junliang Guo***, *Juntao Li, Min Zhang, Tao Qin, Tie-yan Liu*   
+IEEE Transactions on Pattern Analysis and Machine Intelligence
+
+Extract and Attend: Improving Entity Translation in Neural Machine Translation   
+*Zixin Zeng, Rui Wang, Yichong Leng*, ***Junliang Guo***, *Xu Tan, Tao Qin, Tie-Yan Liu*  
+ACL 2023
+
 Machine Translation with Speech-Aware Length Control for Video Dubbing  
 *Yihan Wu*, ***Junliang Guo***, *Xu Tan, Chen Zhang, Bohan Li, Ruihua Song, Lei He, Sheng Zhao, Arul Menezes, Jiang Bian*  
 AAAI 2023
