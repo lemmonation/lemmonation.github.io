@@ -5,57 +5,85 @@ permalink: /publications/
 author_profile: true
 ---
 
+(\*=Equal Contribution)   
+
+**2023:**   
+
+Deliberate then Generate: Enhanced Prompting Framework for Text Generation   
+*Bei Li\*, Rui Wang\**, ***Junliang Guo\****, *Kaitao Song, Xu Tan, Hany Hassan, Arul Menezes, Tong Xiao, Jiang Bian, JingBo Zhu*   
+Preprint [[paper]](https://arxiv.org/abs/2305.19835)
+
+ResiDual: Transformer with Dual Residual Connections   
+*Shufang Xie, Huishuai Zhang*, ***Junliang Guo***, *Xu Tan, Jiang Bian, Hany Hassan Awadalla, Arul Menezes, Tao Qin, Rui Yan*   
+Preprint [[paper]](https://arxiv.org/abs/2304.14802) [[code]](https://github.com/microsoft/ResiDual)
+
+A Study on ReLU and Softmax in Transformer   
+*Kai Shen\**, ***Junliang Guo\****, *Xu Tan, Siliang Tang, Rui Wang, Jiang Bian*   
+Preprint [[paper]](https://arxiv.org/abs/2302.06461)
+
+Difformer: Empowering diffusion model on embedding space for text generation   
+*Zhujin Gao\**, ***Junliang Guo\****, *Xu Tan, Yongxin Zhu, Fang Zhang, Jiang Bian, Linli Xu*   
+Preprint [[paper]](https://arxiv.org/abs/2212.09412) [[code]](https://github.com/zhjgao/difformer)
+
 A Survey on Non-Autoregressive Generation for Neural Machine Translation and Beyond   
-*Yisheng Xiao, Lijun Wu*, ***Junliang Guo***, *Juntao Li, Min Zhang, Tao Qin, Tie-yan Liu*   
-IEEE Transactions on Pattern Analysis and Machine Intelligence
+*Yisheng Xiao\*, Lijun Wu\**, ***Junliang Guo***, *Juntao Li, Min Zhang, Tao Qin, Tie-yan Liu*   
+IEEE Transactions on Pattern Analysis and Machine Intelligence [[paper]](https://arxiv.org/abs/2204.09269) [[code]](https://github.com/LitterBrother-Xiao/Overview-of-Non-autoregressive-Applications)
+
+N-Gram Nearest Neighbor Machine Translation   
+*Rui Lv\**, ***Junliang Guo\****, *Rui Wang, Xu Tan, Qi Liu, Tao Qin*   
+Preprint [[paper]](https://arxiv.org/abs/2301.12866)
 
 Extract and Attend: Improving Entity Translation in Neural Machine Translation   
 *Zixin Zeng, Rui Wang, Yichong Leng*, ***Junliang Guo***, *Xu Tan, Tao Qin, Tie-Yan Liu*  
-ACL 2023
+ACL 2023 [[paper]](https://aclanthology.org/2023.findings-acl.107.pdf)
 
 Machine Translation with Speech-Aware Length Control for Video Dubbing  
 *Yihan Wu*, ***Junliang Guo***, *Xu Tan, Chen Zhang, Bohan Li, Ruihua Song, Lei He, Sheng Zhao, Arul Menezes, Jiang Bian*  
-AAAI 2023
+AAAI 2023 [[paper]](https://arxiv.org/abs/2211.16934)
 
 Retrosynthesis Prediction with Local Template Retrieval  
 *Shufang Xie, Rui Yan*, ***Junliang Guo***, *Yingce Xia, Lijun Wu, Tao Qin*  
-AAAI 2023
+AAAI 2023 [[paper]](https://arxiv.org/abs/2306.04123)
+
+**2022:**   
 
 BinauralGrad: A Two-Stage Conditional Diffusion Probabilistic Model for Binaural Audio Synthesis  
-*Yichong Leng, Zehua Chen*, ***Junliang Guo***, *Haohe Liu, Jiawei Chen, Xu Tan, Danilo Mandic, Lei He, Xiangyang Li, Tao Qin, Sheng Zhao, Tie-Yan Liu*  
-NeurIPS 2022
+*Yichong Leng\*, Zehua Chen\**, ***Junliang Guo***, *Haohe Liu, Jiawei Chen, Xu Tan, Danilo Mandic, Lei He, Xiangyang Li, Tao Qin, Sheng Zhao, Tie-Yan Liu*  
+NeurIPS 2022 [[paper]](https://arxiv.org/abs/2205.14807) [[code]](https://github.com/microsoft/NeuralSpeech/tree/master/BinauralGrad)
 
 A Study of Syntactic Multi-Modality in Non-Autoregressive Machine Translation  
 *Kexun Zhang, Rui Wang, Xu Tan*, ***Junliang Guo***, *Yi Ren, Tao Qin, Tie-Yan Liu*  
-NAACL 2022
+NAACL 2022 [[paper]](https://aclanthology.org/2022.naacl-main.126/)
 
 Task-Oriented Dialogue System as Natural Language Generation  
 *Weizhi Wang, Zhirui Zhang*, ***Junliang Guo***, *Yinpei Dai, Boxing Chen, Weihua Luo*  
-SIGIR 2022
+SIGIR 2022 [[paper]](https://arxiv.org/abs/2108.13679)
 
 Sequence-to-Action: Grammatical Error Correction with Action Guided Sequence Generation  
 *Jiquan Li*, ***Junliang Guo***, *Yongxin Zhu, Xin Sheng, Deqiang Jiang, Bo Ren, Linli Xu*  
-AAAI 2022
+AAAI 2022 [[paper]](https://arxiv.org/abs/2205.10884)
+
+**2021 and before:**   
 
 Hierarchical Multi-label Text Classification with Horizontal and Vertical Category Correlations  
 *Linli Xu, Sijie Teng, Ruoyu Zhao*, ***Junliang Guo***, *Chi Xiao, Deqiang Jiang, Bo Ren*  
-EMNLP 2021
+EMNLP 2021 [[paper]](https://aclanthology.org/2021.emnlp-main.190/)
 
 Adaptive Nearest Neighbor Machine Translation  
 *Xin Zheng, Zhirui Zhang*, ***Junliang Guo***, *Shujian Huang, Boxing Chen, Weihua Luo, Jiajun Chen*  
-ACL 2021
+ACL 2021 [[paper]](https://arxiv.org/abs/2105.13022) [[code]](https://github.com/zhengxxn/adaptive-knn-mt)
 
 Adaptive Adapter: an Efficient Way to Incorporate BERT into Neural Machine Translation  
 ***Junliang Guo***, *Zhirui Zhang, Linli Xu, Boxing Chen, Enhong Chen*  
-IEEE Transactions on Audio, Speech and Language Processing
+IEEE Transactions on Audio, Speech and Language Processing [[paper]](https://ieeexplore.ieee.org/document/9420282)
 
 Label Incorporated Graph Neural Networks for Text Classification  
 *Yuan Xin, Linli Xu*, ***Junliang Guo***, *Jiquan Li, Xin Sheng, Yuanyuan Zhou*  
-ICPR 2020
+ICPR 2020 [[paper]](https://ieeexplore.ieee.org/document/9413086)
 
 Incorporating BERT into Parallel Sequence Decoding with Adapters  
 ***Junliang Guo***, *Zhirui Zhang, Linli Xu, Hao-Ran Wei, Boxing Chen, Enhong Chen*  
-NeurIPS 2020 [[paper]](https://arxiv.org/abs/2010.06138)
+NeurIPS 2020 [[paper]](https://arxiv.org/abs/2010.06138) [[code]](https://github.com/lemmonation/abnet)
 
 Jointly Masked Sequence-to-Sequence Model for Non-Autoregressive Neural Machine Translation  
 ***Junliang Guo***, *Linli Xu, Enhong Chen*  
