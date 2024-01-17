@@ -7,6 +7,16 @@ author_profile: true
 
 (\*=Equal Contribution)   
 
+**2024:**
+
+GAIA: Zero-shot Talking Avatar Generation   
+*Tianyu He\**, ***Junliang Guo\****, *Runyi Yu\*, Yuchi Wang\*, Jialiang Zhu, Kaikai An, Leyi Li, Xu Tan, Chunyu Wang, Han Hu, HsiangTao Wu, Sheng Zhao, Jiang Bian*   
+ICLR 2024 [[paper]](https://arxiv.org/abs/2311.15230)
+
+Connecting Large Language Models with Evolutionary Algorithms yields Powerful Prompt Optimizers   
+*Qingyan Guo, Rui Wang*, ***Junliang Guo***, *Bei Li, Kaitao Song, Xu Tan, Guoqing Liu, Jiang Bian, Yujiu Yang*   
+ICLR 2024 [[paper]](https://arxiv.org/abs/2309.08532)
+
 **2023:**   
 
 Deliberate then Generate: Enhanced Prompting Framework for Text Generation   
