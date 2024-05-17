@@ -9,6 +9,14 @@ author_profile: true
 
 **2024:**
 
+Mitigating Reversal Curse in Large Language Models via Semantic-aware Permutation Training   
+*Qingyan Guo, Rui Wang*, ***Junliang Guo***, *Xu Tan, Jiang Bian, Yujiu Yang*   
+ACL 2024 Findings [[paper]](https://arxiv.org/abs/2403.00758)
+
+Difformer: Empowering diffusion model on embedding space for text generation   
+*Zhujin Gao\**, ***Junliang Guo\****, *Xu Tan, Yongxin Zhu, Fang Zhang, Jiang Bian, Linli Xu*   
+NAACL 2024 [[paper]](https://arxiv.org/abs/2212.09412) [[code]](https://github.com/zhjgao/difformer)
+
 GAIA: Zero-shot Talking Avatar Generation   
 *Tianyu He\**, ***Junliang Guo\****, *Runyi Yu\*, Yuchi Wang\*, Jialiang Zhu, Kaikai An, Leyi Li, Xu Tan, Chunyu Wang, Han Hu, HsiangTao Wu, Sheng Zhao, Jiang Bian*   
 ICLR 2024 [[paper]](https://arxiv.org/abs/2311.15230)
@@ -30,10 +38,6 @@ Preprint [[paper]](https://arxiv.org/abs/2304.14802) [[code]](https://github.com
 A Study on ReLU and Softmax in Transformer   
 *Kai Shen\**, ***Junliang Guo\****, *Xu Tan, Siliang Tang, Rui Wang, Jiang Bian*   
 Preprint [[paper]](https://arxiv.org/abs/2302.06461)
-
-Difformer: Empowering diffusion model on embedding space for text generation   
-*Zhujin Gao\**, ***Junliang Guo\****, *Xu Tan, Yongxin Zhu, Fang Zhang, Jiang Bian, Linli Xu*   
-Preprint [[paper]](https://arxiv.org/abs/2212.09412) [[code]](https://github.com/zhjgao/difformer)
 
 A Survey on Non-Autoregressive Generation for Neural Machine Translation and Beyond   
 *Yisheng Xiao\*, Lijun Wu\**, ***Junliang Guo***, *Juntao Li, Min Zhang, Tao Qin, Tie-yan Liu*   
