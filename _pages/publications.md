@@ -45,7 +45,7 @@ IEEE Transactions on Pattern Analysis and Machine Intelligence [[paper]](https:/
 
 N-Gram Nearest Neighbor Machine Translation   
 *Rui Lv\**, ***Junliang Guo\****, *Rui Wang, Xu Tan, Qi Liu, Tao Qin*   
-Preprint [[paper]](https://arxiv.org/abs/2301.12866)
+IEEE Transactions on Audio, Speech and Language Processing [[paper]](https://arxiv.org/abs/2301.12866)
 
 Extract and Attend: Improving Entity Translation in Neural Machine Translation   
 *Zixin Zeng, Rui Wang, Yichong Leng*, ***Junliang Guo***, *Xu Tan, Tao Qin, Tie-Yan Liu*  
