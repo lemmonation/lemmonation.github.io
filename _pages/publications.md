@@ -19,7 +19,7 @@ Preprint [[paper]](https://arxiv.org/abs/2407.07356) [[demo]](https://aka.ms/vid
 
 Compositional 3D-aware Video Generation with LLM Director   
 *Hanxin Zhu, Tianyu He, Anni Tang*, ***Junliang Guo***, *Zhibo Chen, Jiang Bian*   
-ACL 2024 Findings [[paper]](https://arxiv.org/abs/2409.00558) [[demo]](https://www.microsoft.com/en-us/research/project/compositional-3d-aware-video-generation)
+NeurIPS 2024 [[paper]](https://arxiv.org/abs/2409.00558) [[demo]](https://www.microsoft.com/en-us/research/project/compositional-3d-aware-video-generation)
 
 Predictor-Corrector Enhanced Transformers with Exponential Moving Average Coefficient Learning   
 *Bei Li, Tong Zheng, Rui Wang, Jiahao Liu, Qingyan Guo*, ***Junliang Guo***, *Xu Tan, Tong Xiao, Jingbo Zhu, Jingang Wang, Xunliang Cai*   
