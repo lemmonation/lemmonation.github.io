@@ -9,6 +9,22 @@ author_profile: true
 
 **2024:**
 
+IGOR: Image-GOal Representations are the Atomic Control Units for Foundation Models in Embodied AI   
+*Xiaoyu Chen\**, ***Junliang Guo\****, *Tianyu He\*, Chuheng Zhang\*, Pushi Zhang, Derek Cathera Yang, Li Zhao, Jiang Bian*   
+Preprint [[paper]](https://arxiv.org/abs/2411.00785) [[demo]](https://aka.ms/project-igor)
+
+Video In-context Learning   
+*Wentao Zhang\**, ***Junliang Guo\****, *Tianyu He, Li Zhao, Linli Xu, Jiang Bian*   
+Preprint [[paper]](https://arxiv.org/abs/2407.07356) [[demo]](https://aka.ms/vid-icl)
+
+Compositional 3D-aware Video Generation with LLM Director   
+*Hanxin Zhu, Tianyu He, Anni Tang*, ***Junliang Guo***, *Zhibo Chen, Jiang Bian*   
+ACL 2024 Findings [[paper]](https://arxiv.org/abs/2409.00558) [[demo]](https://www.microsoft.com/en-us/research/project/compositional-3d-aware-video-generation)
+
+Predictor-Corrector Enhanced Transformers with Exponential Moving Average Coefficient Learning   
+*Bei Li, Tong Zheng, Rui Wang, Jiahao Liu, Qingyan Guo*, ***Junliang Guo***, *Xu Tan, Tong Xiao, Jingbo Zhu, Jingang Wang, Xunliang Cai*   
+NeurIPS 2024 [[paper]](https://arxiv.org/abs/2411.03042)
+
 Mitigating Reversal Curse in Large Language Models via Semantic-aware Permutation Training   
 *Qingyan Guo, Rui Wang*, ***Junliang Guo***, *Xu Tan, Jiang Bian, Yujiu Yang*   
 ACL 2024 Findings [[paper]](https://arxiv.org/abs/2403.00758)
@@ -23,7 +39,7 @@ ICLR 2024 [[paper]](https://arxiv.org/abs/2311.15230)
 
 Connecting Large Language Models with Evolutionary Algorithms yields Powerful Prompt Optimizers   
 *Qingyan Guo, Rui Wang*, ***Junliang Guo***, *Bei Li, Kaitao Song, Xu Tan, Guoqing Liu, Jiang Bian, Yujiu Yang*   
-ICLR 2024 [[paper]](https://arxiv.org/abs/2309.08532)
+ICLR 2024 [[paper]](https://arxiv.org/abs/2309.08532) [[code]](https://github.com/beeevita/EvoPrompt)
 
 **2023:**   
 
