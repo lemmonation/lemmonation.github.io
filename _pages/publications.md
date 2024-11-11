@@ -17,6 +17,10 @@ Video In-context Learning
 *Wentao Zhang\**, ***Junliang Guo\****, *Tianyu He, Li Zhao, Linli Xu, Jiang Bian*   
 Preprint [[paper]](https://arxiv.org/abs/2407.07356) [[demo]](https://aka.ms/vid-icl)
 
+UniEdit: A Unified Tuning-Free Framework for Video Motion and Appearance Editing   
+*Jianhong Bai, Tianyu He, Yuchi Wang*, ***Junliang Guo***, *Haoji Hu, Zuozhu Liu, Jiang Bian*   
+Preprint [[paper]](https://arxiv.org/abs/2402.13185) [[code]](https://github.com/JianhongBai/UniEdit)
+
 Compositional 3D-aware Video Generation with LLM Director   
 *Hanxin Zhu, Tianyu He, Anni Tang*, ***Junliang Guo***, *Zhibo Chen, Jiang Bian*   
 NeurIPS 2024 [[paper]](https://arxiv.org/abs/2409.00558) [[demo]](https://www.microsoft.com/en-us/research/project/compositional-3d-aware-video-generation)
