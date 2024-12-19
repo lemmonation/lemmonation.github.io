@@ -9,6 +9,10 @@ author_profile: true
 
 **2024:**
 
+VidTok: A Versatile and Open-Source Video Tokenizer   
+*Anni Tang, Tianyu He*, ***Junliang Guo***, *Xinle Cheng, Li Song, Jiang Bian*   
+Preprint [[paper]](https://arxiv.org/abs/2412.13061) [[code]](https://github.com/microsoft/VidTok)
+
 IGOR: Image-GOal Representations are the Atomic Control Units for Foundation Models in Embodied AI   
 *Xiaoyu Chen\**, ***Junliang Guo\****, *Tianyu He\*, Chuheng Zhang\*, Pushi Zhang, Derek Cathera Yang, Li Zhao, Jiang Bian*   
 Preprint [[paper]](https://arxiv.org/abs/2411.00785) [[demo]](https://aka.ms/project-igor)
