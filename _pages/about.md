@@ -10,7 +10,7 @@ redirect_from:
 
 I am a Senior Researcher of the Machine Learning Group at Microsoft Research Asia (MSRA). I obtained my Ph.D degree from the University of Science and Technology of China (USTC) in 2021, advised by Prof. [Linli Xu](http://staff.ustc.edu.cn/~linlixu/) and Prof. [Enhong Chen](http://staff.ustc.edu.cn/~cheneh/). I received my bachelor’s degree in USTC in 2016.
 
-My research interests lie in deep learning, natural language processing and multimodal learning, including generative AI on natural language, speech and video, such as text generation with large language models, speech synthesis and digital human generation, etc.
+My research interests lie in generative modeling, world model and embodied AI, including generative AI on natural language, video and game. For example, building generative models that can be controlled by natural language, vision, and action signals, which can be utilized to empower world models and embodied AI applications.
 
 **I'm always looking for highly motivated interns with good coding and math skills to work with me on machine learning and natural language processing.** Feel free to drop me an email if you are interested (an internship period of at least 6 months is preferred). You can contact me through a@b, where a=junliangguo and b=microsoft.com.
 
@@ -30,7 +30,7 @@ Experience
 Service
 ------
 + Senior PC: IJCAI 2021
-+ PC Member: ICML 2021, ACL 2021, NeurIPS 2020, AAAI 2020/2021, IJCAI 2020, ECAI 2020
++ PC Member: ICML 2021~now, NeurIPS 2020~now, ICLR 2021~now, ACL 2021~2023, AAAI 2020/2021, IJCAI 2020, ECAI 2020
 
 Honor
 ------
