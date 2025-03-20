@@ -7,6 +7,20 @@ author_profile: true
 
 (\*=Equal Contribution)   
 
+**2025:**
+
+Fast Autoregressive Video Generation with Diagonal Decoding   
+*Yang Ye\**, ***Junliang Guo\****, *Haoyu Wu\**, *Tianyu He, Tim Pearce, Tabish Rashid, Katja Hofmann, Jiang Bian*   
+Preprint [[paper]](https://arxiv.org/abs/2503.14070) [[demo]](https://aka.ms/diagd)
+
+VidTwin: Video VAE with Decoupled Structure and Dynamics   
+*Yuchi Wang*, ***Junliang Guo***, *Xinyi Xie, Tianyu He, Xu Sun, Jiang Bian*   
+CVPR 2025 [[paper]](https://arxiv.org/abs/2412.17726) [[code]](https://github.com/microsoft/VidTok/tree/main/vidtwin)
+
+Video In-context Learning: Autoregressive Transformers are Zero-Shot Video Imitators   
+*Wentao Zhang\**, ***Junliang Guo\****, *Tianyu He, Li Zhao, Linli Xu, Jiang Bian*   
+ICLR 2025 [[paper]](https://arxiv.org/abs/2407.07356) [[demo]](https://aka.ms/vid-icl)
+
 **2024:**
 
 VidTok: A Versatile and Open-Source Video Tokenizer   
@@ -16,10 +30,6 @@ Preprint [[paper]](https://arxiv.org/abs/2412.13061) [[code]](https://github.com
 IGOR: Image-GOal Representations are the Atomic Control Units for Foundation Models in Embodied AI   
 *Xiaoyu Chen\**, ***Junliang Guo\****, *Tianyu He\*, Chuheng Zhang\*, Pushi Zhang, Derek Cathera Yang, Li Zhao, Jiang Bian*   
 Preprint [[paper]](https://arxiv.org/abs/2411.00785) [[demo]](https://aka.ms/project-igor)
-
-Video In-context Learning   
-*Wentao Zhang\**, ***Junliang Guo\****, *Tianyu He, Li Zhao, Linli Xu, Jiang Bian*   
-Preprint [[paper]](https://arxiv.org/abs/2407.07356) [[demo]](https://aka.ms/vid-icl)
 
 UniEdit: A Unified Tuning-Free Framework for Video Motion and Appearance Editing   
 *Jianhong Bai, Tianyu He, Yuchi Wang*, ***Junliang Guo***, *Haoji Hu, Zuozhu Liu, Jiang Bian*   
