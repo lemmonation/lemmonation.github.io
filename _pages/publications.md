@@ -9,6 +9,10 @@ author_profile: true
 
 **2025:**
 
+MineWorld: a Real-Time and Open-Source Interactive World Model on Minecraft   
+***Junliang Guo\****, *Yang Ye\**, *Tianyu He\**, *Haoyu Wu\**, *Yushu Jiang, Tim Pearce, Jiang Bian*   
+Preprint [[paper]](https://arxiv.org/abs/2504.08388) [[code]](https://github.com/microsoft/MineWorld)
+
 Fast Autoregressive Video Generation with Diagonal Decoding   
 *Yang Ye\**, ***Junliang Guo\****, *Haoyu Wu\**, *Tianyu He, Tim Pearce, Tabish Rashid, Katja Hofmann, Jiang Bian*   
 Preprint [[paper]](https://arxiv.org/abs/2503.14070) [[demo]](https://aka.ms/diagd)
