@@ -9,9 +9,13 @@ author_profile: true
 
 **2025:**
 
+Playing with Transformer at 30+ FPS via Next-Frame Diffusion   
+*Xinle Cheng, Tianyu He, Jiayi Xu*, ***Junliang Guo***, *Di He, Jiang Bian*   
+Preprint [[paper]](https://arxiv.org/abs/2506.01380) [[demo]](https://nextframed.github.io)
+
 MineWorld: a Real-Time and Open-Source Interactive World Model on Minecraft   
 ***Junliang Guo\****, *Yang Ye\**, *Tianyu He\**, *Haoyu Wu\**, *Yushu Jiang, Tim Pearce, Jiang Bian*   
-Preprint [[paper]](https://arxiv.org/abs/2504.08388) [[code]](https://github.com/microsoft/MineWorld)
+Preprint [[paper]](https://arxiv.org/abs/2504.08388) [[code]](https://github.com/microsoft/MineWorld) [[model]](https://modelscope.cn/models/AI-ModelScope/mineworld)
 
 Fast Autoregressive Video Generation with Diagonal Decoding   
 *Yang Ye\**, ***Junliang Guo\****, *Haoyu Wu\**, *Tianyu He, Tim Pearce, Tabish Rashid, Katja Hofmann, Jiang Bian*   
