@@ -8,11 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a Senior Researcher of the Machine Learning Group at Microsoft Research Asia (MSRA). I obtained my Ph.D degree from the University of Science and Technology of China (USTC) in 2021, advised by Prof. [Linli Xu](http://staff.ustc.edu.cn/~linlixu/) and Prof. [Enhong Chen](http://staff.ustc.edu.cn/~cheneh/). I received my bachelor’s degree in USTC in 2016.
+I recently moved to an embodied AI startup, leading the development of foundation models. Drop me an email if you are interested.
+
+I was a Senior Researcher of the Machine Learning Group at Microsoft Research Asia (MSRA). I obtained my Ph.D degree from the University of Science and Technology of China (USTC) in 2021, advised by Prof. [Linli Xu](http://staff.ustc.edu.cn/~linlixu/) and Prof. [Enhong Chen](http://staff.ustc.edu.cn/~cheneh/). I received my bachelor’s degree in USTC in 2016.
 
 My research interests lie in generative modeling, world model and embodied AI, including generative AI on natural language, video and game. For example, building generative models that can be controlled by natural language, vision, and action signals, which can be utilized to empower world models and embodied AI applications.
 
-**I'm always looking for highly motivated interns with good coding and math skills to work with me on machine learning and natural language processing.** Feel free to drop me an email if you are interested (an internship period of at least 6 months is preferred). You can contact me through a@b, where a=junliangguo and b=microsoft.com.
+**I'm always looking for highly motivated interns with good coding and math skills to work with me on Embodied AI.** Feel free to drop me an email if you are interested (an internship period of at least 6 months is preferred). You can contact me through a@b, where a=leoguojl and b=gmail.com.
 
 I'm an amateur 5-dan [Go](https://en.wikipedia.org/wiki/Go_(game)) player.
 
@@ -23,7 +25,7 @@ Education
 
 Experience
 ------
-+ 2021.12 - Present, Senior Researcher, Machine Learning Group, MSRA
++ 2021.12 - 2025.6, Senior Researcher, Machine Learning Group, MSRA
 + 2020.7 - 2021.2, Research Intern, Language Technology Lab, Alibaba DAMO Academy
 + 2018.5 - 2018.9, Research Intern, Machine Learning Group, MSRA
 
