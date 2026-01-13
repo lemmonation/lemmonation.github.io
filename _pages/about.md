@@ -18,6 +18,10 @@ My research interests lie in generative modeling, world model and embodied AI, i
 
 I'm an amateur 5-dan [Go](https://en.wikipedia.org/wiki/Go_(game)) player.
 
+🔥 News
+------
++ Jan 2026: 🚀 [Spirit-v1.5](https://github.com/Spirit-AI-Team/spirit-v1.5) was released! Check how we achieved SoTA on RoboChallenge Table30 benchmark: [Blog](https://www.spirit-ai.com/en/blog/spirit-v1-5)
+
 Education
 ------
 + 2016.9 - 2021.11, Ph.D. in Computer Science, USTC 
