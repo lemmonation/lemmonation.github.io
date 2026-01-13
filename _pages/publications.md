@@ -7,7 +7,25 @@ author_profile: true
 
 (\*=Equal Contribution)   
 
+**2026:**
+
+Spirit-v1.5: Clean Data Is the Enemy of Great Robot Foundation Models   
+*Spirit-AI Team*   
+Technical Report [[Blog]](https://www.spirit-ai.com/en/blog/spirit-v1-5)
+
 **2025:**
+
+Point What You Mean: Visually Grounded Instruction Policy   
+*Hang Yu, Juntu Zhao, Yufeng Liu, Kaiyu Li, Cheng Ma, Di Zhang, Yingdong Hu, Guang Chen, Junyuan Xie*, ***Junliang Guo***, *Junqiao Zhao, Yang Gao*   
+Preprint [[paper]](https://arxiv.org/abs/2512.18933)
+
+Do You Need Proprioceptive States in Visuomotor Policies?   
+*Juntu Zhao, Wenbo Lu, Di Zhang, Yufeng Liu, Yushen Liang, Tianluo Zhang, Yifeng Cao, Junyuan Xie, Yingdong Hu, Shengjie Wang*, ***Junliang Guo***, *Dequan Wang, Yang Gao*   
+Preprint [[paper]](https://arxiv.org/abs/2509.18644) [[demo]](https://statefreepolicy.github.io/)
+
+Geometry forcing: Marrying video diffusion and 3d representation for consistent world modeling   
+*Haoyu Wu, Diankun Wu, Tianyu He*, ***Junliang Guo***, *Yang Ye, Yueqi Duan, Jiang Bian*   
+Preprint [[paper]](https://arxiv.org/abs/2507.07982) [[demo]](https://geometryforcing.github.io)
 
 Playing with Transformer at 30+ FPS via Next-Frame Diffusion   
 *Xinle Cheng, Tianyu He, Jiayi Xu*, ***Junliang Guo***, *Di He, Jiang Bian*   
